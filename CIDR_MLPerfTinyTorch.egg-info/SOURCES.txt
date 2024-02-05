@@ -1,0 +1,12 @@
+README.md
+setup.py
+CIDR_MLPerfTinyTorch.egg-info/PKG-INFO
+CIDR_MLPerfTinyTorch.egg-info/SOURCES.txt
+CIDR_MLPerfTinyTorch.egg-info/dependency_links.txt
+CIDR_MLPerfTinyTorch.egg-info/requires.txt
+CIDR_MLPerfTinyTorch.egg-info/top_level.txt
+mlperftinytorch_models/__init__.py
+mlperftinytorch_models/ds_cnn.py
+mlperftinytorch_models/fc_ae.py
+mlperftinytorch_models/mbv2.py
+mlperftinytorch_models/resnet.py
